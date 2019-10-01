@@ -10,7 +10,7 @@ Train a new model starting from pre-trained COCO weights
 python home_objct.py train --dataset=/path/to/home_object/dataset --weight=cocoo
 ```
 
-##Object detection and color splash
+## Object detection and color splash
 ```
 python home_object.py splash --weights=/path/to/mask_rncc_homeobject.h5 --image=<file name>
 ```
