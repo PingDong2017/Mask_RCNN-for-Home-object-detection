@@ -12,5 +12,5 @@ python home_objct.py train --dataset=/path/to/home_object/dataset --weight=cocoo
 
 ## Object detection and color splash
 ```
-python home_object.py splash --weights=/path/to/mask_rncc_homeobject.h5 --image=<file name>
+python home_object.py splash --weights=/path/to/mask_rncc_homeobject.h5 --image=/path/to/<file name>
 ```
